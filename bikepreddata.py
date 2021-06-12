@@ -10,7 +10,7 @@ Original file is located at
 # !pip install pyproj
 # !pip install geopy
 
-import seaborn as sns
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
