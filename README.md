@@ -5,4 +5,4 @@ Link of dataset used for analysis is https://www.kaggle.com/atharvaingle/bikeped
 Used plotly library to analyse the data using graphs. 
 
 
-Link of the stramlit app created and deployed on heroku  https://bikecrashanalysis.herokuapp.com/ 
+Link of the streamlit app created and deployed on heroku is .  https://bikecrashanalysis.herokuapp.com/ 
