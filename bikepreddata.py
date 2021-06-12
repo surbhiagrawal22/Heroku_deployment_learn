@@ -22,7 +22,7 @@ import os
 # from geopy.extra.rate_limiter import RateLimiter
 
 pd.set_option("max_columns",64)
-df=pd.read_csv("/Users/surbhi/Downloads/BikePedCrash.csv")
+df=pd.read_csv("BikePedCrash.csv")
 # print(df.head(3))
 # print(df.columns)
 
