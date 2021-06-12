@@ -16,7 +16,7 @@ import pandas as pd
 import os
 
 # from pyproj import Proj, transform
-sns.set_theme(style='darkgrid', palette='deep')
+
 # import geopy
 # from geopy.geocoders import Nominatim
 # from geopy.extra.rate_limiter import RateLimiter
