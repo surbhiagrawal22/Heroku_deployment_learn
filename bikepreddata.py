@@ -13,9 +13,8 @@ Original file is located at
 
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
 import os
-from matplotlib.pyplot import figure
+
 # from pyproj import Proj, transform
 sns.set_theme(style='darkgrid', palette='deep')
 # import geopy
