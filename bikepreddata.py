@@ -15,12 +15,6 @@ import numpy as np
 import pandas as pd
 import os
 
-# from pyproj import Proj, transform
-
-# import geopy
-# from geopy.geocoders import Nominatim
-# from geopy.extra.rate_limiter import RateLimiter
-
 pd.set_option("max_columns",64)
 df=pd.read_csv("BikePedCrash.csv")
 # print(df.head(3))
